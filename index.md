@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hola Mundo!"
+title: "hello word!"
 ---
 
 ## Error 503!
